@@ -1,4 +1,4 @@
-A simple demonstartion of a Blog, with bacnk REST API and Node.JS. The backend here used is MongoDB. Following dependencies 
+A simple demonstartion of a Blog, with backend REST API and Node.JS. The database used here is MongoDB. Following dependencies 
 will be required to run this project - 
     1. "bcryptjs",
     2. "express",
